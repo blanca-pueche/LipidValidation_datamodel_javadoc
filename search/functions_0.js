@@ -1,4 +1,0 @@
-var searchData=
-[
-  ['fromstring_0',['fromString',['../classio_1_1github_1_1mzmine_1_1datamodel_1_1features_1_1types_1_1annotations_1_1lipidexpertknowl9b34ddcf3e7dad413ac3692adde19102.html#acac7d21db3301b2dcb4eba23cb161f3f',1,'io.github.mzmine.datamodel.features.types.annotations.lipidexpertknowledge.LipidValidationAdductsType.fromString()'],['../classio_1_1github_1_1mzmine_1_1datamodel_1_1features_1_1types_1_1annotations_1_1lipidexpertknowleffd4f73552d151bd15e6ac0086483f4.html#abcddf4df4667b25d76ba575d39f7131e',1,'io.github.mzmine.datamodel.features.types.annotations.lipidexpertknowledge.LipidValidationCorrectDescriptionType.fromString()'],['../classio_1_1github_1_1mzmine_1_1datamodel_1_1features_1_1types_1_1annotations_1_1lipidexpertknowle204eef3a06c486ffbc7bed0601ea043.html#af4f70504c938c5134221d57b9d16032b',1,'io.github.mzmine.datamodel.features.types.annotations.lipidexpertknowledge.LipidValidationIncorrectDescriptionType.fromString()']]]
-];

@@ -1,0 +1,7 @@
+var classio_1_1github_1_1mzmine_1_1datamodel_1_1features_1_1types_1_1annotations_1_1lipidexpertknowlf7633cd28b1c24277afac7a07d99a622 =
+[
+    [ "getDefaultVisibility", "classio_1_1github_1_1mzmine_1_1datamodel_1_1features_1_1types_1_1annotations_1_1lipidexpertknowlf7633cd28b1c24277afac7a07d99a622.html#a4fc2e6a4f398b174e42eadd7e56dc491", null ],
+    [ "getHeaderString", "classio_1_1github_1_1mzmine_1_1datamodel_1_1features_1_1types_1_1annotations_1_1lipidexpertknowlf7633cd28b1c24277afac7a07d99a622.html#afcac4f817b88677082c0575189ea015e", null ],
+    [ "getSubDataTypes", "classio_1_1github_1_1mzmine_1_1datamodel_1_1features_1_1types_1_1annotations_1_1lipidexpertknowlf7633cd28b1c24277afac7a07d99a622.html#ad4ec980e0a5d589b30512d16f211a1fc", null ],
+    [ "getUniqueID", "classio_1_1github_1_1mzmine_1_1datamodel_1_1features_1_1types_1_1annotations_1_1lipidexpertknowlf7633cd28b1c24277afac7a07d99a622.html#a72dbfd69f9ec4b1de0693cf29955a1ab", null ]
+];

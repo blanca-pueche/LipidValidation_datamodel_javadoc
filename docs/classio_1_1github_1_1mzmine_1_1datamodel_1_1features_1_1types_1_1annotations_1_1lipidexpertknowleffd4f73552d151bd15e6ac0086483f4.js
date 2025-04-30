@@ -1,0 +1,7 @@
+var classio_1_1github_1_1mzmine_1_1datamodel_1_1features_1_1types_1_1annotations_1_1lipidexpertknowleffd4f73552d151bd15e6ac0086483f4 =
+[
+    [ "fromString", "classio_1_1github_1_1mzmine_1_1datamodel_1_1features_1_1types_1_1annotations_1_1lipidexpertknowleffd4f73552d151bd15e6ac0086483f4.html#abcddf4df4667b25d76ba575d39f7131e", null ],
+    [ "getHeaderString", "classio_1_1github_1_1mzmine_1_1datamodel_1_1features_1_1types_1_1annotations_1_1lipidexpertknowleffd4f73552d151bd15e6ac0086483f4.html#a56854f02669232209378881c4ed17e19", null ],
+    [ "getStringConverter", "classio_1_1github_1_1mzmine_1_1datamodel_1_1features_1_1types_1_1annotations_1_1lipidexpertknowleffd4f73552d151bd15e6ac0086483f4.html#ab5475c8d644c7b41a430bcf3d8359564", null ],
+    [ "getUniqueID", "classio_1_1github_1_1mzmine_1_1datamodel_1_1features_1_1types_1_1annotations_1_1lipidexpertknowleffd4f73552d151bd15e6ac0086483f4.html#a0c04b8b5e077e3582ae601915905c8f0", null ]
+];
